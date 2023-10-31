@@ -53,7 +53,6 @@ I am a talented, ambitious, and hardworking software engineer with a passion for
 ## Additional Information
 - Nationality: Cameroonian
 - Gender: Male
-- Phone Number: (+1) 4387656554 (Mobile)
 - Email Address: mguidona@gmail.com
 - LinkedIn: linkedin.com/in/guy-guidona
 - Twitter: twitter.com/GMGuidona
